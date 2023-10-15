@@ -1,0 +1,11 @@
+namespace Exercise001
+{
+    using System;
+    public class C : B
+    {
+        public void CPrint()
+        {
+            Console.WriteLine("C");
+        }
+    }
+}
